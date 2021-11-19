@@ -48,5 +48,41 @@ namespace OiMundo
 
             MessageBox.Show("piQuebrodo = " + piQuebrado);
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            double saldo = 100.0;
+            double valorSaque = 10.0;
+
+            if (saldo >= valorSaque)
+            {
+                saldo -= valorSaque;
+                MessageBox.Show("Saque realizado com sucesso");
+            }
+            else
+            {
+                MessageBox.Show("Saldo Insuficiente");
+            }
+
+            MessageBox.Show("Saldo atual: " + saldo);
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            double saldo = 5.0;
+            double valorSaque = 10.0;
+
+            if (saldo >= valorSaque)
+            {
+                saldo -= valorSaque;
+                MessageBox.Show("Saque realizado com sucesso");
+            }
+            else
+            {
+                MessageBox.Show("Saldo Insuficiente");
+            }
+
+            MessageBox.Show("Saldo atual: " + saldo);
+        }
     }
 }
