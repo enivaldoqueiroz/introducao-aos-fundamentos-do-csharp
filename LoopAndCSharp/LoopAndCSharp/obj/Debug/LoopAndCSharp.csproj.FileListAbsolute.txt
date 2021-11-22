@@ -1,0 +1,8 @@
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\LoopAndCSharp\LoopAndCSharp\bin\Debug\LoopAndCSharp.exe.config
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\LoopAndCSharp\LoopAndCSharp\bin\Debug\LoopAndCSharp.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\LoopAndCSharp\LoopAndCSharp\bin\Debug\LoopAndCSharp.pdb
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\LoopAndCSharp\LoopAndCSharp\obj\Debug\LoopAndCSharp.csproj.AssemblyReference.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\LoopAndCSharp\LoopAndCSharp\obj\Debug\LoopAndCSharp.csproj.SuggestedBindingRedirects.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\LoopAndCSharp\LoopAndCSharp\obj\Debug\LoopAndCSharp.csproj.CoreCompileInputs.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\LoopAndCSharp\LoopAndCSharp\obj\Debug\LoopAndCSharp.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\LoopAndCSharp\LoopAndCSharp\obj\Debug\LoopAndCSharp.pdb
