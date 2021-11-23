@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula15TiposBasicosDeDados\Aula15TiposBasicosDeDados\bin\Debug\Aula15TiposBasicosDeDados.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula15TiposBasicosDeDados\Aula15TiposBasicosDeDados\bin\Debug\Aula15TiposBasicosDeDados.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula15TiposBasicosDeDados\Aula15TiposBasicosDeDados\bin\Debug\Aula15TiposBasicosDeDados.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula15TiposBasicosDeDados\Aula15TiposBasicosDeDados\obj\Debug\Aula15TiposBasicosDeDados.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula15TiposBasicosDeDados\Aula15TiposBasicosDeDados\obj\Debug\Aula15TiposBasicosDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula15TiposBasicosDeDados\Aula15TiposBasicosDeDados\obj\Debug\Aula15TiposBasicosDeDados.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula15TiposBasicosDeDados\Aula15TiposBasicosDeDados\obj\Debug\Aula15TiposBasicosDeDados.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula15TiposBasicosDeDados\Aula15TiposBasicosDeDados\obj\Debug\Aula15TiposBasicosDeDados.pdb
