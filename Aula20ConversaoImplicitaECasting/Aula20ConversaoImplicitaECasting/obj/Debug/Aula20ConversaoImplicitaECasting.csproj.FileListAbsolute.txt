@@ -1,0 +1,7 @@
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula20ConversaoImplicitaECasting\Aula20ConversaoImplicitaECasting\bin\Debug\Aula20ConversaoImplicitaECasting.exe.config
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula20ConversaoImplicitaECasting\Aula20ConversaoImplicitaECasting\bin\Debug\Aula20ConversaoImplicitaECasting.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula20ConversaoImplicitaECasting\Aula20ConversaoImplicitaECasting\bin\Debug\Aula20ConversaoImplicitaECasting.pdb
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula20ConversaoImplicitaECasting\Aula20ConversaoImplicitaECasting\obj\Debug\Aula20ConversaoImplicitaECasting.csproj.SuggestedBindingRedirects.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula20ConversaoImplicitaECasting\Aula20ConversaoImplicitaECasting\obj\Debug\Aula20ConversaoImplicitaECasting.csproj.CoreCompileInputs.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula20ConversaoImplicitaECasting\Aula20ConversaoImplicitaECasting\obj\Debug\Aula20ConversaoImplicitaECasting.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula20ConversaoImplicitaECasting\Aula20ConversaoImplicitaECasting\obj\Debug\Aula20ConversaoImplicitaECasting.pdb
