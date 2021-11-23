@@ -1,0 +1,8 @@
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.exe.config
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.pdb
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.csproj.AssemblyReference.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.csproj.SuggestedBindingRedirects.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.csproj.CoreCompileInputs.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.pdb
