@@ -1,0 +1,7 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula18SaidaDeDados\Aula18SaidaDeDados\bin\Debug\Aula18SaidaDeDados.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula18SaidaDeDados\Aula18SaidaDeDados\bin\Debug\Aula18SaidaDeDados.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula18SaidaDeDados\Aula18SaidaDeDados\bin\Debug\Aula18SaidaDeDados.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula18SaidaDeDados\Aula18SaidaDeDados\obj\Debug\Aula18SaidaDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula18SaidaDeDados\Aula18SaidaDeDados\obj\Debug\Aula18SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula18SaidaDeDados\Aula18SaidaDeDados\obj\Debug\Aula18SaidaDeDados.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula18SaidaDeDados\Aula18SaidaDeDados\obj\Debug\Aula18SaidaDeDados.pdb
