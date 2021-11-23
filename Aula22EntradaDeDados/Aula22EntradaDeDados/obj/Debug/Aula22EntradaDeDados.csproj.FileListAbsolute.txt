@@ -1,0 +1,7 @@
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula22EntradaDeDados\Aula22EntradaDeDados\bin\Debug\Aula22EntradaDeDados.exe.config
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula22EntradaDeDados\Aula22EntradaDeDados\bin\Debug\Aula22EntradaDeDados.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula22EntradaDeDados\Aula22EntradaDeDados\bin\Debug\Aula22EntradaDeDados.pdb
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula22EntradaDeDados\Aula22EntradaDeDados\obj\Debug\Aula22EntradaDeDados.csproj.SuggestedBindingRedirects.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula22EntradaDeDados\Aula22EntradaDeDados\obj\Debug\Aula22EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula22EntradaDeDados\Aula22EntradaDeDados\obj\Debug\Aula22EntradaDeDados.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula22EntradaDeDados\Aula22EntradaDeDados\obj\Debug\Aula22EntradaDeDados.pdb
