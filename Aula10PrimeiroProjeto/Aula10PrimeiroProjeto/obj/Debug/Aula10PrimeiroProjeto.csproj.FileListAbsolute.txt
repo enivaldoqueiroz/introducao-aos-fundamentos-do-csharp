@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula10PrimeiroProjeto\Aula10PrimeiroProjeto\bin\Debug\Aula10PrimeiroProjeto.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula10PrimeiroProjeto\Aula10PrimeiroProjeto\bin\Debug\Aula10PrimeiroProjeto.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula10PrimeiroProjeto\Aula10PrimeiroProjeto\bin\Debug\Aula10PrimeiroProjeto.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula10PrimeiroProjeto\Aula10PrimeiroProjeto\obj\Debug\Aula10PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula10PrimeiroProjeto\Aula10PrimeiroProjeto\obj\Debug\Aula10PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula10PrimeiroProjeto\Aula10PrimeiroProjeto\obj\Debug\Aula10PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula10PrimeiroProjeto\Aula10PrimeiroProjeto\obj\Debug\Aula10PrimeiroProjeto.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula10PrimeiroProjeto\Aula10PrimeiroProjeto\obj\Debug\Aula10PrimeiroProjeto.pdb
