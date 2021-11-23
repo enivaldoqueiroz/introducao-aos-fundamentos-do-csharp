@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Aula18SaidaDeDados",
+    "\\Aula18SaidaDeDados\\Aula18SaidaDeDados",
     "\\ClassesAndObjects\\ClassesAndObjects",
-    "\\OiMundo",
     "\\OiMundo\\OiMundo"
   ],
-  "SelectedNode": "\\OiMundo\\OiMundo\\Form1.cs",
+  "SelectedNode": "\\Aula18SaidaDeDados\\Aula18SaidaDeDados\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
