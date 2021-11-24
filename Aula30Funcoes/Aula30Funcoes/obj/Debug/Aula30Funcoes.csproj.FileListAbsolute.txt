@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula30Funcoes\Aula30Funcoes\bin\Debug\Aula30Funcoes.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula30Funcoes\Aula30Funcoes\bin\Debug\Aula30Funcoes.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula30Funcoes\Aula30Funcoes\bin\Debug\Aula30Funcoes.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula30Funcoes\Aula30Funcoes\obj\Debug\Aula30Funcoes.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula30Funcoes\Aula30Funcoes\obj\Debug\Aula30Funcoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula30Funcoes\Aula30Funcoes\obj\Debug\Aula30Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula30Funcoes\Aula30Funcoes\obj\Debug\Aula30Funcoes.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula30Funcoes\Aula30Funcoes\obj\Debug\Aula30Funcoes.pdb
