@@ -1,0 +1,7 @@
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula19OperadoresDeAtribuicao\Aula19OperadoresDeAtribuicao\bin\Debug\Aula19OperadoresDeAtribuicao.exe.config
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula19OperadoresDeAtribuicao\Aula19OperadoresDeAtribuicao\bin\Debug\Aula19OperadoresDeAtribuicao.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula19OperadoresDeAtribuicao\Aula19OperadoresDeAtribuicao\bin\Debug\Aula19OperadoresDeAtribuicao.pdb
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula19OperadoresDeAtribuicao\Aula19OperadoresDeAtribuicao\obj\Debug\Aula19OperadoresDeAtribuicao.csproj.SuggestedBindingRedirects.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula19OperadoresDeAtribuicao\Aula19OperadoresDeAtribuicao\obj\Debug\Aula19OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula19OperadoresDeAtribuicao\Aula19OperadoresDeAtribuicao\obj\Debug\Aula19OperadoresDeAtribuicao.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula19OperadoresDeAtribuicao\Aula19OperadoresDeAtribuicao\obj\Debug\Aula19OperadoresDeAtribuicao.pdb

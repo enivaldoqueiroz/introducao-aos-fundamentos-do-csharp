@@ -1,8 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\OiMundo",
     "\\OiMundo\\OiMundo"
   ],
+=======
+    "\\Aula18SaidaDeDados",
+    "\\Aula18SaidaDeDados\\Aula18SaidaDeDados",
+    "\\ClassesAndObjects\\ClassesAndObjects",
+    "\\OiMundo\\OiMundo"
+  ],
+  "SelectedNode": "\\Aula18SaidaDeDados\\Aula18SaidaDeDados\\Program.cs",
+>>>>>>> 49588fbc00ad3dd40366bb9e0597d46b7e8189da
   "PreviewInSolutionExplorer": false
 }

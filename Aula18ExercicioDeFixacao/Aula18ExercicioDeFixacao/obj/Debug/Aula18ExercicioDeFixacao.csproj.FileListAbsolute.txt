@@ -1,0 +1,8 @@
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula18ExercicioDeFixacao\Aula18ExercicioDeFixacao\bin\Debug\Aula18ExercicioDeFixacao.exe.config
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula18ExercicioDeFixacao\Aula18ExercicioDeFixacao\bin\Debug\Aula18ExercicioDeFixacao.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula18ExercicioDeFixacao\Aula18ExercicioDeFixacao\bin\Debug\Aula18ExercicioDeFixacao.pdb
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula18ExercicioDeFixacao\Aula18ExercicioDeFixacao\obj\Debug\Aula18ExercicioDeFixacao.csproj.AssemblyReference.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula18ExercicioDeFixacao\Aula18ExercicioDeFixacao\obj\Debug\Aula18ExercicioDeFixacao.csproj.SuggestedBindingRedirects.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula18ExercicioDeFixacao\Aula18ExercicioDeFixacao\obj\Debug\Aula18ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula18ExercicioDeFixacao\Aula18ExercicioDeFixacao\obj\Debug\Aula18ExercicioDeFixacao.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula18ExercicioDeFixacao\Aula18ExercicioDeFixacao\obj\Debug\Aula18ExercicioDeFixacao.pdb
