@@ -1,0 +1,7 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula34EstruturaDeRepeticaoFor\Aula34EstruturaDeRepeticaoFor\bin\Debug\Aula34EstruturaDeRepeticaoFor.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula34EstruturaDeRepeticaoFor\Aula34EstruturaDeRepeticaoFor\bin\Debug\Aula34EstruturaDeRepeticaoFor.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula34EstruturaDeRepeticaoFor\Aula34EstruturaDeRepeticaoFor\bin\Debug\Aula34EstruturaDeRepeticaoFor.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula34EstruturaDeRepeticaoFor\Aula34EstruturaDeRepeticaoFor\obj\Debug\Aula34EstruturaDeRepeticaoFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula34EstruturaDeRepeticaoFor\Aula34EstruturaDeRepeticaoFor\obj\Debug\Aula34EstruturaDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula34EstruturaDeRepeticaoFor\Aula34EstruturaDeRepeticaoFor\obj\Debug\Aula34EstruturaDeRepeticaoFor.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula34EstruturaDeRepeticaoFor\Aula34EstruturaDeRepeticaoFor\obj\Debug\Aula34EstruturaDeRepeticaoFor.pdb
