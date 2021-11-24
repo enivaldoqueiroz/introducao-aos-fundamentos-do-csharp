@@ -13,14 +13,30 @@ namespace Aula4AdicaoERemocaoDeProdutosComOO
         {
             Produto p = new Produto();
 
-            Console.WriteLine("Entre os dados do produto: ");
+            Console.Write("Entre os dados do produto: ");
             p.Nome = Console.ReadLine();
-            Console.WriteLine("Preço: ");
+            Console.Write("Preço: ");
             p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Quantidade no estoque");
+            Console.Write("Quantidade no estoque: ");
             p.Quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Dados do produto: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser adicionado: ");
+            int qtd = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qtd);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removidos: ");
+            qtd = int.Parse(Console.ReadLine());
+            p.RemoverProduto(qtd);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
 
             Console.Read();
         }

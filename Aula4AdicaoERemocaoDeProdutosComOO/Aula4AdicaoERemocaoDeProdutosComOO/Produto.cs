@@ -11,11 +11,21 @@ namespace Aula4AdicaoERemocaoDeProdutosComOO
     {
         public string Nome;
         public double Preco;
-        public int Quantidade;  
-        
+        public int Quantidade;
+
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
+        }
+
+        public void AdicionarProdutos(int quantidade)
+        {
+            Quantidade = Quantidade + quantidade;
+        }
+
+        public void RemoverProduto(int quantidade)
+        {
+            Quantidade = Quantidade - quantidade;
         }
 
         public override string ToString()
