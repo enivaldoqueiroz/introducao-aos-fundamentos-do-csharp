@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula38ResolvendoProblemaSemOrientacaoAObjeto", "Aula38ResolvendoProblemaSemOrientacaoAObjeto\Aula38ResolvendoProblemaSemOrientacaoAObjeto.csproj", "{3BDD1F30-A77A-4C61-8298-EE47B42F03B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDD1F30-A77A-4C61-8298-EE47B42F03B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDD1F30-A77A-4C61-8298-EE47B42F03B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDD1F30-A77A-4C61-8298-EE47B42F03B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDD1F30-A77A-4C61-8298-EE47B42F03B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2FC1747-773C-40A5-B4C6-C1B4C5EC7273}
+	EndGlobalSection
+EndGlobal
