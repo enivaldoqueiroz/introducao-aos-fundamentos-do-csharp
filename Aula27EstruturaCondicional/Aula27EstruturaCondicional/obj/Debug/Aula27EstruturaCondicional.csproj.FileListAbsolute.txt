@@ -1,0 +1,8 @@
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\Aula27EstruturaCondicional.exe.config
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\Aula27EstruturaCondicional.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\Aula27EstruturaCondicional.pdb
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\Aula27EstruturaCondicional.csproj.AssemblyReference.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\Aula27EstruturaCondicional.csproj.SuggestedBindingRedirects.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\Aula27EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\Aula27EstruturaCondicional.exe
+D:\DOTNET\introducao-aos-fundamentos-do-csharp\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\Aula27EstruturaCondicional.pdb
