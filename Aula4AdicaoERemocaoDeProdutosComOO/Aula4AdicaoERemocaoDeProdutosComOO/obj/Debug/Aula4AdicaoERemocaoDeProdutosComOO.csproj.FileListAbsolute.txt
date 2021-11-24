@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula4AdicaoERemocaoDeProdutosComOO\Aula4AdicaoERemocaoDeProdutosComOO\bin\Debug\Aula4AdicaoERemocaoDeProdutosComOO.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula4AdicaoERemocaoDeProdutosComOO\Aula4AdicaoERemocaoDeProdutosComOO\bin\Debug\Aula4AdicaoERemocaoDeProdutosComOO.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula4AdicaoERemocaoDeProdutosComOO\Aula4AdicaoERemocaoDeProdutosComOO\bin\Debug\Aula4AdicaoERemocaoDeProdutosComOO.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula4AdicaoERemocaoDeProdutosComOO\Aula4AdicaoERemocaoDeProdutosComOO\obj\Debug\Aula4AdicaoERemocaoDeProdutosComOO.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula4AdicaoERemocaoDeProdutosComOO\Aula4AdicaoERemocaoDeProdutosComOO\obj\Debug\Aula4AdicaoERemocaoDeProdutosComOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula4AdicaoERemocaoDeProdutosComOO\Aula4AdicaoERemocaoDeProdutosComOO\obj\Debug\Aula4AdicaoERemocaoDeProdutosComOO.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula4AdicaoERemocaoDeProdutosComOO\Aula4AdicaoERemocaoDeProdutosComOO\obj\Debug\Aula4AdicaoERemocaoDeProdutosComOO.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula4AdicaoERemocaoDeProdutosComOO\Aula4AdicaoERemocaoDeProdutosComOO\obj\Debug\Aula4AdicaoERemocaoDeProdutosComOO.pdb
