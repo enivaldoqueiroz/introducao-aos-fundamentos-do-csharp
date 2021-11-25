@@ -11,6 +11,7 @@ namespace Aula61ResolvendoDesafioDeEncapsulamento
     {
         private double _saldo;
         private char _simOuNao;
+        private double _valorDeposito;
         public int Numero { get; set; }
         public string Titular { get; set; }
 
@@ -34,13 +35,13 @@ namespace Aula61ResolvendoDesafioDeEncapsulamento
         public void Desposito()
         {
             Console.Write("Entre o valor de depósito inicial: ");
-            int valorDepositado = int.Parse(Console.ReadLine());
-             _saldo = _saldo + valorDepositado;
+            _valorDeposito = int.Parse(Console.ReadLine());
+             _saldo = _saldo + _valorDeposito;
         }
 
         public double Saque(double valorSaque)
         {
-            return _saldo - valorSaque;
+            return _saldo = _saldo - valorSaque;
         }
 
         public override string ToString()

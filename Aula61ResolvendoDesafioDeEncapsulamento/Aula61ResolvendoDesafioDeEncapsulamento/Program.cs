@@ -27,6 +27,15 @@ namespace Aula61ResolvendoDesafioDeEncapsulamento
             char simOuNao = char.Parse(Console.ReadLine());
 
             c1.SimoOuNão(simOuNao);
+            
+            Console.WriteLine(c1.ToString());
+
+            Console.Write("Entre um valor para saque: ");
+            double valorSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            c1.Saque(valorSaque);
+
+            Console.Write("Dados da conta atualizados: ");
 
             Console.WriteLine(c1.ToString());
 
