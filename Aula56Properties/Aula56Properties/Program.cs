@@ -15,7 +15,7 @@ namespace Aula56Properties
             //Console.WriteLine(p.Nome);
             Console.WriteLine();
             //p.SetNome("TV 4K");
-            p.Nome = "T";
+            p.Nome = "TV 4K";
             Console.WriteLine(p.Nome);
             Console.WriteLine(p.Preco);
             Console.WriteLine(p.Quantidade);
