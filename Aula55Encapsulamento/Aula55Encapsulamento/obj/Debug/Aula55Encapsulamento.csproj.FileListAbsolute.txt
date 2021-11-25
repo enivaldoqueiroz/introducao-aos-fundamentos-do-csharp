@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\Aula55Encapsulamento.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\Aula55Encapsulamento.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\Aula55Encapsulamento.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\Aula55Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\Aula55Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\Aula55Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\Aula55Encapsulamento.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\Aula55Encapsulamento.pdb
