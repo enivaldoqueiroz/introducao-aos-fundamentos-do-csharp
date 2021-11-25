@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula48ConversaoDeMoeda\Aula48ConversaoDeMoeda\bin\Debug\Aula48ConversaoDeMoeda.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula48ConversaoDeMoeda\Aula48ConversaoDeMoeda\bin\Debug\Aula48ConversaoDeMoeda.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula48ConversaoDeMoeda\Aula48ConversaoDeMoeda\bin\Debug\Aula48ConversaoDeMoeda.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula48ConversaoDeMoeda\Aula48ConversaoDeMoeda\obj\Debug\Aula48ConversaoDeMoeda.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula48ConversaoDeMoeda\Aula48ConversaoDeMoeda\obj\Debug\Aula48ConversaoDeMoeda.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula48ConversaoDeMoeda\Aula48ConversaoDeMoeda\obj\Debug\Aula48ConversaoDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula48ConversaoDeMoeda\Aula48ConversaoDeMoeda\obj\Debug\Aula48ConversaoDeMoeda.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula48ConversaoDeMoeda\Aula48ConversaoDeMoeda\obj\Debug\Aula48ConversaoDeMoeda.pdb
