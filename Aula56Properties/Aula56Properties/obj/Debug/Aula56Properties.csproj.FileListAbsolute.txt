@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula56Properties\Aula56Properties\obj\Debug\Aula56Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula56Properties\Aula56Properties\obj\Debug\Aula56Properties.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula56Properties\Aula56Properties\bin\Debug\Aula56Properties.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula56Properties\Aula56Properties\bin\Debug\Aula56Properties.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula56Properties\Aula56Properties\bin\Debug\Aula56Properties.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula56Properties\Aula56Properties\obj\Debug\Aula56Properties.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula56Properties\Aula56Properties\obj\Debug\Aula56Properties.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula56Properties\Aula56Properties\obj\Debug\Aula56Properties.csproj.AssemblyReference.cache
