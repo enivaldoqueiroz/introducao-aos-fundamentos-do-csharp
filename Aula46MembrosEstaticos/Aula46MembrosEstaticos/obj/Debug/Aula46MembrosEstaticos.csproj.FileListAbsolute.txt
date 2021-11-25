@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\Aula46MembrosEstaticos.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\Aula46MembrosEstaticos.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\Aula46MembrosEstaticos.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\Aula46MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\Aula46MembrosEstaticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\Aula46MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\Aula46MembrosEstaticos.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\Aula46MembrosEstaticos.pdb
