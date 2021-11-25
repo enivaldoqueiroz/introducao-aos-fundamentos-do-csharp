@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula51Construtores\Aula51Construtores\bin\Debug\Aula51Construtores.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula51Construtores\Aula51Construtores\bin\Debug\Aula51Construtores.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula51Construtores\Aula51Construtores\bin\Debug\Aula51Construtores.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula51Construtores\Aula51Construtores\obj\Debug\Aula51Construtores.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula51Construtores\Aula51Construtores\obj\Debug\Aula51Construtores.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula51Construtores\Aula51Construtores\obj\Debug\Aula51Construtores.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula51Construtores\Aula51Construtores\obj\Debug\Aula51Construtores.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula51Construtores\Aula51Construtores\obj\Debug\Aula51Construtores.pdb
