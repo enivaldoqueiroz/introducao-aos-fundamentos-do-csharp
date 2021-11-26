@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula72ModificadorDeParamentroParams\Aula72ModificadorDeParamentroParams\bin\Debug\Aula72ModificadorDeParamentroParams.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula72ModificadorDeParamentroParams\Aula72ModificadorDeParamentroParams\bin\Debug\Aula72ModificadorDeParamentroParams.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula72ModificadorDeParamentroParams\Aula72ModificadorDeParamentroParams\bin\Debug\Aula72ModificadorDeParamentroParams.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula72ModificadorDeParamentroParams\Aula72ModificadorDeParamentroParams\obj\Debug\Aula72ModificadorDeParamentroParams.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula72ModificadorDeParamentroParams\Aula72ModificadorDeParamentroParams\obj\Debug\Aula72ModificadorDeParamentroParams.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula72ModificadorDeParamentroParams\Aula72ModificadorDeParamentroParams\obj\Debug\Aula72ModificadorDeParamentroParams.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula72ModificadorDeParamentroParams\Aula72ModificadorDeParamentroParams\obj\Debug\Aula72ModificadorDeParamentroParams.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula72ModificadorDeParamentroParams\Aula72ModificadorDeParamentroParams\obj\Debug\Aula72ModificadorDeParamentroParams.pdb
