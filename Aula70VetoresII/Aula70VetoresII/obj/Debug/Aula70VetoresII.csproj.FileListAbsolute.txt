@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula70VetoresII\Aula70VetoresII\bin\Debug\Aula70VetoresII.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula70VetoresII\Aula70VetoresII\bin\Debug\Aula70VetoresII.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula70VetoresII\Aula70VetoresII\bin\Debug\Aula70VetoresII.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula70VetoresII\Aula70VetoresII\obj\Debug\Aula70VetoresII.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula70VetoresII\Aula70VetoresII\obj\Debug\Aula70VetoresII.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula70VetoresII\Aula70VetoresII\obj\Debug\Aula70VetoresII.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula70VetoresII\Aula70VetoresII\obj\Debug\Aula70VetoresII.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula70VetoresII\Aula70VetoresII\obj\Debug\Aula70VetoresII.pdb
