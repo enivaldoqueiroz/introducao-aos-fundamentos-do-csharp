@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula71VetoresDesafio\Aula71VetoresDesafio\obj\Debug\Aula71VetoresDesafio.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula71VetoresDesafio\Aula71VetoresDesafio\obj\Debug\Aula71VetoresDesafio.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula71VetoresDesafio\Aula71VetoresDesafio\obj\Debug\Aula71VetoresDesafio.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula71VetoresDesafio\Aula71VetoresDesafio\bin\Debug\Aula71VetoresDesafio.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula71VetoresDesafio\Aula71VetoresDesafio\bin\Debug\Aula71VetoresDesafio.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula71VetoresDesafio\Aula71VetoresDesafio\bin\Debug\Aula71VetoresDesafio.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula71VetoresDesafio\Aula71VetoresDesafio\obj\Debug\Aula71VetoresDesafio.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula71VetoresDesafio\Aula71VetoresDesafio\obj\Debug\Aula71VetoresDesafio.pdb
