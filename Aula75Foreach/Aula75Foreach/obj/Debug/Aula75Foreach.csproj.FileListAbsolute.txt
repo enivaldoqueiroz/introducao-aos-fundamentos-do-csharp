@@ -1,0 +1,7 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula75Foreach\Aula75Foreach\bin\Debug\Aula75Foreach.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula75Foreach\Aula75Foreach\bin\Debug\Aula75Foreach.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula75Foreach\Aula75Foreach\bin\Debug\Aula75Foreach.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula75Foreach\Aula75Foreach\obj\Debug\Aula75Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula75Foreach\Aula75Foreach\obj\Debug\Aula75Foreach.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula75Foreach\Aula75Foreach\obj\Debug\Aula75Foreach.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula75Foreach\Aula75Foreach\obj\Debug\Aula75Foreach.pdb
