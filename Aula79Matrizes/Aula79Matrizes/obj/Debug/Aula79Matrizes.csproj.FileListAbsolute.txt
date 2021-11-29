@@ -1,0 +1,7 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula79Matrizes\Aula79Matrizes\bin\Debug\Aula79Matrizes.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula79Matrizes\Aula79Matrizes\bin\Debug\Aula79Matrizes.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula79Matrizes\Aula79Matrizes\bin\Debug\Aula79Matrizes.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula79Matrizes\Aula79Matrizes\obj\Debug\Aula79Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula79Matrizes\Aula79Matrizes\obj\Debug\Aula79Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula79Matrizes\Aula79Matrizes\obj\Debug\Aula79Matrizes.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula79Matrizes\Aula79Matrizes\obj\Debug\Aula79Matrizes.pdb
