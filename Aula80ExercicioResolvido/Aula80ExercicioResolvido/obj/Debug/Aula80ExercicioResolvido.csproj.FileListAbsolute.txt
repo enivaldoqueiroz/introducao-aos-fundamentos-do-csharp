@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula80ExercicioResolvido\Aula80ExercicioResolvido\bin\Debug\Aula80ExercicioResolvido.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula80ExercicioResolvido\Aula80ExercicioResolvido\bin\Debug\Aula80ExercicioResolvido.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula80ExercicioResolvido\Aula80ExercicioResolvido\bin\Debug\Aula80ExercicioResolvido.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula80ExercicioResolvido\Aula80ExercicioResolvido\obj\Debug\Aula80ExercicioResolvido.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula80ExercicioResolvido\Aula80ExercicioResolvido\obj\Debug\Aula80ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula80ExercicioResolvido\Aula80ExercicioResolvido\obj\Debug\Aula80ExercicioResolvido.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula80ExercicioResolvido\Aula80ExercicioResolvido\obj\Debug\Aula80ExercicioResolvido.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula80ExercicioResolvido\Aula80ExercicioResolvido\obj\Debug\Aula80ExercicioResolvido.csproj.AssemblyReference.cache
