@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula78ExecicioDeFixacao(Listas)\Aula78ExecicioDeFixacao(Listas)\bin\Debug\Aula78ExecicioDeFixacao(Listas).exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula78ExecicioDeFixacao(Listas)\Aula78ExecicioDeFixacao(Listas)\bin\Debug\Aula78ExecicioDeFixacao(Listas).exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula78ExecicioDeFixacao(Listas)\Aula78ExecicioDeFixacao(Listas)\bin\Debug\Aula78ExecicioDeFixacao(Listas).pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula78ExecicioDeFixacao(Listas)\Aula78ExecicioDeFixacao(Listas)\obj\Debug\Aula78ExecicioDeFixacao(Listas).csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula78ExecicioDeFixacao(Listas)\Aula78ExecicioDeFixacao(Listas)\obj\Debug\Aula78ExecicioDeFixacao(Listas).csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula78ExecicioDeFixacao(Listas)\Aula78ExecicioDeFixacao(Listas)\obj\Debug\Aula78ExecicioDeFixacao(Listas).csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula78ExecicioDeFixacao(Listas)\Aula78ExecicioDeFixacao(Listas)\obj\Debug\Aula78ExecicioDeFixacao(Listas).exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula78ExecicioDeFixacao(Listas)\Aula78ExecicioDeFixacao(Listas)\obj\Debug\Aula78ExecicioDeFixacao(Listas).pdb
