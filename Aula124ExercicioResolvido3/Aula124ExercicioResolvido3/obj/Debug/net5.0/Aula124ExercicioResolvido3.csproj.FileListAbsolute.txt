@@ -1,0 +1,16 @@
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\bin\Debug\net5.0\Aula124ExercicioResolvido3.exe
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\bin\Debug\net5.0\Aula124ExercicioResolvido3.deps.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\bin\Debug\net5.0\Aula124ExercicioResolvido3.runtimeconfig.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\bin\Debug\net5.0\Aula124ExercicioResolvido3.runtimeconfig.dev.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\bin\Debug\net5.0\Aula124ExercicioResolvido3.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\bin\Debug\net5.0\ref\Aula124ExercicioResolvido3.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\bin\Debug\net5.0\Aula124ExercicioResolvido3.pdb
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\Aula124ExercicioResolvido3.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\Aula124ExercicioResolvido3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\Aula124ExercicioResolvido3.AssemblyInfoInputs.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\Aula124ExercicioResolvido3.AssemblyInfo.cs
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\Aula124ExercicioResolvido3.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\Aula124ExercicioResolvido3.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\ref\Aula124ExercicioResolvido3.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\Aula124ExercicioResolvido3.pdb
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula124ExercicioResolvido3\Aula124ExercicioResolvido3\obj\Debug\net5.0\Aula124ExercicioResolvido3.genruntimeconfig.cache
