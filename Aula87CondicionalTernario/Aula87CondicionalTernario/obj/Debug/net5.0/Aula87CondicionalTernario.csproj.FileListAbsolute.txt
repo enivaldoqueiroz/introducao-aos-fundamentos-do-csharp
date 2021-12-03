@@ -1,0 +1,16 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\bin\Debug\net5.0\Aula87CondicionalTernario.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\bin\Debug\net5.0\Aula87CondicionalTernario.deps.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\bin\Debug\net5.0\Aula87CondicionalTernario.runtimeconfig.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\bin\Debug\net5.0\Aula87CondicionalTernario.runtimeconfig.dev.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\bin\Debug\net5.0\Aula87CondicionalTernario.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\bin\Debug\net5.0\ref\Aula87CondicionalTernario.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\bin\Debug\net5.0\Aula87CondicionalTernario.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\Aula87CondicionalTernario.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\Aula87CondicionalTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\Aula87CondicionalTernario.AssemblyInfoInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\Aula87CondicionalTernario.AssemblyInfo.cs
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\Aula87CondicionalTernario.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\Aula87CondicionalTernario.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\ref\Aula87CondicionalTernario.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\Aula87CondicionalTernario.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula87CondicionalTernario\Aula87CondicionalTernario\obj\Debug\net5.0\Aula87CondicionalTernario.genruntimeconfig.cache

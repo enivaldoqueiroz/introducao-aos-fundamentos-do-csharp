@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula115Enumeracao/1.0.0": {
+        "runtime": {
+          "Aula115Enumeracao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula115Enumeracao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

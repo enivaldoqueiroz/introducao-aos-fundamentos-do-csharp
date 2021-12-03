@@ -1,0 +1,8 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula85InferenciaDeTipos\Aula85InferenciaDeTipos\bin\Debug\Aula85InferenciaDeTipos.exe.config
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula85InferenciaDeTipos\Aula85InferenciaDeTipos\bin\Debug\Aula85InferenciaDeTipos.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula85InferenciaDeTipos\Aula85InferenciaDeTipos\bin\Debug\Aula85InferenciaDeTipos.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula85InferenciaDeTipos\Aula85InferenciaDeTipos\obj\Debug\Aula85InferenciaDeTipos.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula85InferenciaDeTipos\Aula85InferenciaDeTipos\obj\Debug\Aula85InferenciaDeTipos.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula85InferenciaDeTipos\Aula85InferenciaDeTipos\obj\Debug\Aula85InferenciaDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula85InferenciaDeTipos\Aula85InferenciaDeTipos\obj\Debug\Aula85InferenciaDeTipos.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula85InferenciaDeTipos\Aula85InferenciaDeTipos\obj\Debug\Aula85InferenciaDeTipos.pdb

@@ -1,0 +1,15 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\bin\Debug\net5.0\Aula88FuncoesInterecantesComString.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\bin\Debug\net5.0\Aula88FuncoesInterecantesComString.deps.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\bin\Debug\net5.0\Aula88FuncoesInterecantesComString.runtimeconfig.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\bin\Debug\net5.0\Aula88FuncoesInterecantesComString.runtimeconfig.dev.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\bin\Debug\net5.0\Aula88FuncoesInterecantesComString.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\bin\Debug\net5.0\ref\Aula88FuncoesInterecantesComString.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\bin\Debug\net5.0\Aula88FuncoesInterecantesComString.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\obj\Debug\net5.0\Aula88FuncoesInterecantesComString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\obj\Debug\net5.0\Aula88FuncoesInterecantesComString.AssemblyInfoInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\obj\Debug\net5.0\Aula88FuncoesInterecantesComString.AssemblyInfo.cs
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\obj\Debug\net5.0\Aula88FuncoesInterecantesComString.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\obj\Debug\net5.0\Aula88FuncoesInterecantesComString.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\obj\Debug\net5.0\ref\Aula88FuncoesInterecantesComString.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\obj\Debug\net5.0\Aula88FuncoesInterecantesComString.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula88FuncoesInterecantesComString\Aula88FuncoesInterecantesComString\obj\Debug\net5.0\Aula88FuncoesInterecantesComString.genruntimeconfig.cache

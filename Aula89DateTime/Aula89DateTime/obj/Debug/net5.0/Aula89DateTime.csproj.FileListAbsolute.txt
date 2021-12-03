@@ -1,0 +1,15 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\bin\Debug\net5.0\Aula89DateTime.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\bin\Debug\net5.0\Aula89DateTime.deps.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\bin\Debug\net5.0\Aula89DateTime.runtimeconfig.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\bin\Debug\net5.0\Aula89DateTime.runtimeconfig.dev.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\bin\Debug\net5.0\Aula89DateTime.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\bin\Debug\net5.0\ref\Aula89DateTime.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\bin\Debug\net5.0\Aula89DateTime.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\obj\Debug\net5.0\Aula89DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\obj\Debug\net5.0\Aula89DateTime.AssemblyInfoInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\obj\Debug\net5.0\Aula89DateTime.AssemblyInfo.cs
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\obj\Debug\net5.0\Aula89DateTime.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\obj\Debug\net5.0\Aula89DateTime.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\obj\Debug\net5.0\ref\Aula89DateTime.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\obj\Debug\net5.0\Aula89DateTime.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula89DateTime\Aula89DateTime\obj\Debug\net5.0\Aula89DateTime.genruntimeconfig.cache

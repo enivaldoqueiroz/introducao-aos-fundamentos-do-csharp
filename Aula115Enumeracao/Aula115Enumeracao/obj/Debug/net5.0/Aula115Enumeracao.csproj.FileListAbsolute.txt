@@ -1,0 +1,16 @@
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\bin\Debug\net5.0\Aula115Enumeracao.exe
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\bin\Debug\net5.0\Aula115Enumeracao.deps.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\bin\Debug\net5.0\Aula115Enumeracao.runtimeconfig.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\bin\Debug\net5.0\Aula115Enumeracao.runtimeconfig.dev.json
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\bin\Debug\net5.0\Aula115Enumeracao.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\bin\Debug\net5.0\ref\Aula115Enumeracao.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\bin\Debug\net5.0\Aula115Enumeracao.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\Aula115Enumeracao.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\Aula115Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\Aula115Enumeracao.AssemblyInfoInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\Aula115Enumeracao.AssemblyInfo.cs
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\Aula115Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\Aula115Enumeracao.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\ref\Aula115Enumeracao.dll
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\Aula115Enumeracao.pdb
+C:\Users\jose.costa.FITBANK\introducao-aos-fundamentos-do-csharp\Aula115Enumeracao\Aula115Enumeracao\obj\Debug\net5.0\Aula115Enumeracao.genruntimeconfig.cache
