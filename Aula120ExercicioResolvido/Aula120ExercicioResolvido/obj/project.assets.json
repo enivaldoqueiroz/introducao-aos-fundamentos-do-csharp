@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose.costa.FITBANK\\introducao-aos-fundamentos-do-csharp\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido.csproj",
+      "projectUniqueName": "C:\\Users\\jose.costa.FITBANK\\Documents\\introducao-aos-fundamentos-do-csharp\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido.csproj",
       "projectName": "Aula120ExercicioResolvido",
-      "projectPath": "C:\\Users\\jose.costa.FITBANK\\introducao-aos-fundamentos-do-csharp\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido.csproj",
+      "projectPath": "C:\\Users\\jose.costa.FITBANK\\Documents\\introducao-aos-fundamentos-do-csharp\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido.csproj",
       "packagesPath": "C:\\Users\\jose.costa.FITBANK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jose.costa.FITBANK\\introducao-aos-fundamentos-do-csharp\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido\\obj\\",
+      "outputPath": "C:\\Users\\jose.costa.FITBANK\\Documents\\introducao-aos-fundamentos-do-csharp\\Aula120ExercicioResolvido\\Aula120ExercicioResolvido\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jose.costa.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",

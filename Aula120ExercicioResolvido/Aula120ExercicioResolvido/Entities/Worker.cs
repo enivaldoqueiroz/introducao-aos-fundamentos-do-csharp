@@ -5,7 +5,7 @@ namespace Aula120ExercicioResolvido.Entities
 {
     class Worker
     {
-        public string Nome { get; set; }
+        public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
@@ -18,7 +18,7 @@ namespace Aula120ExercicioResolvido.Entities
 
         public Worker(string nome, WorkerLevel level, double baseSalary, Department department)
         {
-            Nome = nome;
+            Name = nome;
             Level = level;
             BaseSalary = baseSalary;
             Department = department;

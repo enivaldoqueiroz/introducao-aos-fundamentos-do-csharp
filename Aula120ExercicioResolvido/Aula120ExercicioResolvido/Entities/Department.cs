@@ -8,16 +8,16 @@ namespace Aula120ExercicioResolvido.Entities
 {
     class Department
     {
-        public string Nome { get; set; }
+        public string Name { get; set; }
 
         public Department()
         {
 
         }
 
-        public Department(string nome)
+        public Department(string name)
         {
-            Nome = nome;
+            Name = name;
         }
     }
 }
