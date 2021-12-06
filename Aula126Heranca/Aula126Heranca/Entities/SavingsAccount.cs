@@ -26,5 +26,10 @@ namespace Aula126Heranca.Entities
             Balance += Balance * InterstRate;
         }
 
+        public override void WithDraw(double amount)
+        {
+            base.WithDraw(amount);
+            Balance -= 2.0;
+        }
     }
 }

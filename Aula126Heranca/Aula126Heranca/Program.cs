@@ -7,6 +7,7 @@ namespace Aula126Heranca
     {
         static void Main(string[] args)
         {
+            /*
             //Console.WriteLine("Aula 126");
             //Console.WriteLine();
             //BusinessAccount account = new BusinessAccount(8010, "Bob Brown", 100.0, 500.0);
@@ -16,7 +17,9 @@ namespace Aula126Heranca
             //A propriedade ou indexador 'propriedade / indexador'
             //não pode ser usado neste contexto porque o acessador definido está inacessível
             //account.Balance = 200.00; //O atributo Balance esta protect na classe Account
+            */
 
+            /*
             //Aula127Upcasting e downcasting
 
             Account acc = new Account(1001, "Alex", 0.0);
@@ -47,7 +50,18 @@ namespace Aula126Heranca
                 acc5.UpdateBalence();
                 Console.WriteLine("Update!");
             }
+            */
 
+            //Aula128.Sobreposição, palavras virtual, override e base
+
+            Account acc1 = new Account(1001, "Alex", 500.0);
+            Account acc2 = new SavingsAccount(1002, "Anna", 500.0, 0.01);
+
+            acc1.WithDraw(10.0);
+            acc2.WithDraw(10.0);
+
+            Console.WriteLine(acc1.Balance);
+            Console.WriteLine(acc2.Balance);
 
         }
     }
