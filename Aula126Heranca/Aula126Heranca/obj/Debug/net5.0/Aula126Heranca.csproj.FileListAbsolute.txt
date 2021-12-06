@@ -1,0 +1,16 @@
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\bin\Debug\net5.0\Aula126Heranca.exe
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\bin\Debug\net5.0\Aula126Heranca.deps.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\bin\Debug\net5.0\Aula126Heranca.runtimeconfig.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\bin\Debug\net5.0\Aula126Heranca.runtimeconfig.dev.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\bin\Debug\net5.0\Aula126Heranca.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\bin\Debug\net5.0\ref\Aula126Heranca.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\bin\Debug\net5.0\Aula126Heranca.pdb
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\Aula126Heranca.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\Aula126Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\Aula126Heranca.AssemblyInfoInputs.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\Aula126Heranca.AssemblyInfo.cs
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\Aula126Heranca.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\Aula126Heranca.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\ref\Aula126Heranca.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\Aula126Heranca.pdb
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula126Heranca\Aula126Heranca\obj\Debug\net5.0\Aula126Heranca.genruntimeconfig.cache
