@@ -24,9 +24,9 @@ namespace Aula131ExemploResolvido1.Entities
             ValuePerHour = valuePerHour;
         }
 
-        public void Payment()
+        public virtual double Payment()
         {
-            ValuePerHour = Hour * ValuePerHour;
+            return ValuePerHour = Hour * ValuePerHour;
         }
 
         public override string ToString()
