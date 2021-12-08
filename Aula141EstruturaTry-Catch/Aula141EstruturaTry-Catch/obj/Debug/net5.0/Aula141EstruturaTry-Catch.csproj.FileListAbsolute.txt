@@ -1,0 +1,16 @@
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\bin\Debug\net5.0\Aula141EstruturaTry-Catch.exe
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\bin\Debug\net5.0\Aula141EstruturaTry-Catch.deps.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\bin\Debug\net5.0\Aula141EstruturaTry-Catch.runtimeconfig.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\bin\Debug\net5.0\Aula141EstruturaTry-Catch.runtimeconfig.dev.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\bin\Debug\net5.0\Aula141EstruturaTry-Catch.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\bin\Debug\net5.0\ref\Aula141EstruturaTry-Catch.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\bin\Debug\net5.0\Aula141EstruturaTry-Catch.pdb
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\Aula141EstruturaTry-Catch.csproj.AssemblyReference.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\Aula141EstruturaTry-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\Aula141EstruturaTry-Catch.AssemblyInfoInputs.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\Aula141EstruturaTry-Catch.AssemblyInfo.cs
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\Aula141EstruturaTry-Catch.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\Aula141EstruturaTry-Catch.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\ref\Aula141EstruturaTry-Catch.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\Aula141EstruturaTry-Catch.pdb
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula141EstruturaTry-Catch\Aula141EstruturaTry-Catch\obj\Debug\net5.0\Aula141EstruturaTry-Catch.genruntimeconfig.cache
