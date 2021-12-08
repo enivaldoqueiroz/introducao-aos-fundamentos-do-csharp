@@ -1,0 +1,15 @@
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\net5.0\Aula142BlocoFinally.exe
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\net5.0\Aula142BlocoFinally.deps.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\net5.0\Aula142BlocoFinally.runtimeconfig.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\net5.0\Aula142BlocoFinally.runtimeconfig.dev.json
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\net5.0\Aula142BlocoFinally.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\net5.0\ref\Aula142BlocoFinally.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\net5.0\Aula142BlocoFinally.pdb
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\net5.0\Aula142BlocoFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\net5.0\Aula142BlocoFinally.AssemblyInfoInputs.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\net5.0\Aula142BlocoFinally.AssemblyInfo.cs
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\net5.0\Aula142BlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\net5.0\Aula142BlocoFinally.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\net5.0\ref\Aula142BlocoFinally.dll
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\net5.0\Aula142BlocoFinally.pdb
+C:\Users\jose.costa.FITBANK\Documents\introducao-aos-fundamentos-do-csharp\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\net5.0\Aula142BlocoFinally.genruntimeconfig.cache
