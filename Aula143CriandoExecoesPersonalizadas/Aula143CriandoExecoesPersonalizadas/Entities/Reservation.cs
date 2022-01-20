@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Aula143CriandoExecoesPersonalizadas.Entities.Exceptions;
 
 namespace Aula143CriandoExecoesPersonalizadas.Entities
 {
@@ -30,16 +26,16 @@ namespace Aula143CriandoExecoesPersonalizadas.Entities
             return (int)duration.TotalDays;
         }
 
-        public string UpdateDates(DateTime checkIn, DateTime checkOut)
+        public void UpdateDates(DateTime checkIn, DateTime checkOut)
         {
             DateTime now = DateTime.Now;
             if (checkIn < now || checkOut < now)
             {
-                return "Error in reservation: Reservation dates for update must be future dates";
+                throw new DomainException("Error in reservation: Reservation dates for update must be future dates");
             }
             if (checkout <= checkin)
             {
-                return "Error in reservation: Check-out date must be after check-in date";
+                throw new DomainException("Error in reservation: Check-out date must be after check-in date");
             }
 
             CheckIn = checkIn;
