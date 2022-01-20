@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose.costa.FITBANK\\Documents\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas.csproj": {}
+    "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\004_CURSOS\\GIT\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose.costa.FITBANK\\Documents\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas.csproj": {
+    "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\004_CURSOS\\GIT\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose.costa.FITBANK\\Documents\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas.csproj",
+        "projectUniqueName": "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\004_CURSOS\\GIT\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas.csproj",
         "projectName": "Aula143CriandoExecoesPersonalizadas",
-        "projectPath": "C:\\Users\\jose.costa.FITBANK\\Documents\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas.csproj",
+        "projectPath": "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\004_CURSOS\\GIT\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas.csproj",
         "packagesPath": "C:\\Users\\jose.costa.FITBANK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose.costa.FITBANK\\Documents\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\obj\\",
+        "outputPath": "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\004_CURSOS\\GIT\\introducao-aos-fundamentos-do-csharp\\Aula143CriandoExecoesPersonalizadas\\Aula143CriandoExecoesPersonalizadas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose.costa.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

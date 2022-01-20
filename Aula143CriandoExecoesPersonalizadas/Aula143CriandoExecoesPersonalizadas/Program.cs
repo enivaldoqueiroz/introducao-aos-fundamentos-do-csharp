@@ -10,18 +10,18 @@ namespace Aula143CriandoExecoesPersonalizadas
             Console.Write("Room number: ");
             int number = int.Parse(Console.ReadLine());
             Console.Write("Check-in date (dd/MM/yyyy): ");
-            DateTime checkin = DateTime.Parse(Console.ReadLine());
+            DateTime checkIn = DateTime.Parse(Console.ReadLine());
             Console.Write("Check-out date (dd/MM/yyyy): ");
-            DateTime checkout = DateTime.Parse(Console.ReadLine());
+            DateTime checkOut = DateTime.Parse(Console.ReadLine());
 
             //Sem o uso de try catch
-            if (checkout <= checkin)
+            if (checkOut <= checkIn)
             {
                 Console.WriteLine("Error in reservation: Check-out date must be after check-in");
             }
             else
             {
-                Reservation reservation = new Reservation(number, checkin,checkout);
+                Reservation reservation = new Reservation(number, checkIn, checkOut);
                 Console.WriteLine("Reservation: " + reservation);
                 Console.WriteLine();
                 Console.WriteLine("Enter data to update the reservation: ");
@@ -30,25 +30,18 @@ namespace Aula143CriandoExecoesPersonalizadas
                 Console.Write("Check-out date (dd/MM/yyyy): ");
                 checkout = DateTime.Parse(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
-                if (checkin < now || checkout < now)
+                string error = reservation.UpdateDates(checkIn, checkOut);
+
+                if (error != null)
                 {
-                    Console.WriteLine("Error in reservation: Reservation dates for update must be future dates");
-                }
-                else if (checkout <= checkin)
-                {
-                    Console.WriteLine("Error in reservation: Check-out date must be after check-in date");
+                    Console.WriteLine("Error in reservation: " + error);
                 }
                 else
                 {
-                    reservation.UpdateDates(checkin, checkout);
-                    Console.WriteLine("Reservation: " + reservation);
+                    Console.WriteLine("Reservation: " + error);
                 }
 
-
             }
-
-
 
         }
     }
